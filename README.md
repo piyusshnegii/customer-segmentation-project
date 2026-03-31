@@ -16,13 +16,14 @@ Performed customer segmentation using RFM analysis.
 
 ## 📷 Dashboard
 
-![Dashboard](Screenshot 2026-03-31 155603.png)
 
-![Dashboard](Screenshot 2026-03-31 155615.png)
+![Dashboard](Screenshot%202026-03-31%20155603.png)
 
-![Dashboard](Screenshot 2026-03-31 155635.png)
+![Dashboard](Screenshot%202026-03-31%20155615.png)
 
-![Dashboard](Screenshot 2026-03-31 155940.png)
+![Dashboard](Screenshot%202026-03-31%20155635.png)
+
+![Dashboard](Screenshot%202026-03-31%20155940.png)
 
 
 ## 🚀 Conclusion
