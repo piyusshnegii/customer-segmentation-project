@@ -19,3 +19,5 @@ Performed customer segmentation using RFM analysis.
 
 ## 🚀 Conclusion
 Converted raw data into actionable insights.
+## 🔗 Project Files
+Power BI file (.pbix) and dataset are included in this repository.
