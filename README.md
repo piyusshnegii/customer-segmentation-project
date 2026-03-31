@@ -15,7 +15,11 @@ Performed customer segmentation using RFM analysis.
 - Analyzed purchasing behavior
 
 ## 📷 Dashboard
-(Add screenshots here)
+![Dashboard](Screenshot 2026-03-31 155603.png)
+![Dashboard](Screenshot 2026-03-31 155615.png)
+![Dashboard](Screenshot 2026-03-31 155635.png)
+![Dashboard](Screenshot 2026-03-31 155940.png)
+
 
 ## 🚀 Conclusion
 Converted raw data into actionable insights.
